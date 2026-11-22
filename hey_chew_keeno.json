@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Hey Ciuchino",
   "author": "Marco",
-  "model": "https://raw.githubusercontent.com/marco-oldani/wakeupword/main/hey_chew_keeno.tflite",
+  "model": "https://raw.githubusercontent.com/marco-oldani/wakeupword/main/hey_chew_keeno.tflite123",
   "trained_languages": ["en", "it"],
   "version": 2,
   "micro": {
