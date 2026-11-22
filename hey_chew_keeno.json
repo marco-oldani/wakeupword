@@ -3,7 +3,11 @@
   "wake_word": "Hey Ciuchino",
   "author": "Marco",
   "website": "",
-  "model": "hey_chew_keeno.tflite",
+  "models": [
+    {
+      "model": "https://raw.githubusercontent.com/marco-oldani/wakeupword/main/hey_chew_keeno.tflite"
+    }
+  ]
   "trained_languages": ["en", "it"],
   "version": 2,
   "micro": {
