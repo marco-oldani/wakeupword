@@ -7,7 +7,7 @@
     {
       "model": "https://raw.githubusercontent.com/marco-oldani/wakeupword/main/hey_chew_keeno.tflite"
     }
-  ]
+  ],
   "trained_languages": ["en", "it"],
   "version": 2,
   "micro": {
